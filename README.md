@@ -1,3 +1,3 @@
 # sistema_solar
 
-![local GIF](exemplo.gif)
+![local GIF](exemplo.mkv)
